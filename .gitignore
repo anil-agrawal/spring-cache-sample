@@ -1,0 +1,34 @@
+# Target Files
+/target
+
+# logs
+/logs
+
+/docs
+
+# Eclipse related files
+/.classpath
+/.project
+/.settings
+/.factorypath
+
+# web application files or other files
+/.apt_generated/
+*.mv.db
+
+#Angular files
+/src/main/webapp/api
+/src/main/webapp/assets
+/src/main/webapp/*.js
+/src/main/webapp/*.html
+/src/main/webapp/*.ico
+/src/main/webapp/*.svg
+/src/main/webapp/*.txt
+/src/main/webapp/*.ttf
+/src/main/webapp/*.woff
+/src/main/webapp/*.woff2
+/src/main/webapp/*.eot
+/src/main/webapp/*.css
+/src/main/webapp/.htaccess
+
+*.trace.db
